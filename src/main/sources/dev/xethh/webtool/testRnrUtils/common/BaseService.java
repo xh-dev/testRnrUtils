@@ -1,4 +1,4 @@
 package dev.xethh.webtool.testRnrUtils.common;
 
-public interface BaseService extends WithLogger, WithNotification{
+public interface BaseService extends WithLogger{
 }
